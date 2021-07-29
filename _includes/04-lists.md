@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- Indomie
+  - Goreng
+  - Ayam Bawang
+- Croffle
+- Coffee
+  -  Cinammon Croffle
