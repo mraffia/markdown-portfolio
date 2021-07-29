@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My main skill is __working hard__ (newly discovered), I can work for 9 hours or _more_ (not including breaks) everyday. I also can be __patient__.
